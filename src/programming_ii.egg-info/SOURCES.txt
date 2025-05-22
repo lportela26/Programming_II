@@ -1,0 +1,17 @@
+README.md
+setup.py
+src/examples/Example_indexing.py
+src/examples/Pandas_Manipulation.py
+src/examples/__init__.py
+src/examples/example_error_handling.py
+src/examples/regex_examples.py
+src/exercices/__init__.py
+src/exercices/data_generator.py
+src/exercices/data_migrator.py
+src/exercices/meteo_weather.py
+src/programming_ii.egg-info/PKG-INFO
+src/programming_ii.egg-info/SOURCES.txt
+src/programming_ii.egg-info/dependency_links.txt
+src/programming_ii.egg-info/requires.txt
+src/programming_ii.egg-info/top_level.txt
+tests/test_is_prime.py

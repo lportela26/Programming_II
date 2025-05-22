@@ -1,0 +1,9 @@
+matplotlib
+numpy
+pandas
+gitpython
+ipykernel
+pytest
+numba
+pygame
+openpyxl

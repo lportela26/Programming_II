@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: programming_ii
+Version: 0.1.0
+Summary: Exercises and examples for Programming II
+Author: Lucas Portela
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.8
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: gitpython
+Requires-Dist: ipykernel
+Requires-Dist: pytest
+Requires-Dist: numba
+Requires-Dist: pygame
+Requires-Dist: openpyxl

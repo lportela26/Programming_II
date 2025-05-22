@@ -1,0 +1,17 @@
+name: cpii
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - matplotlib
+  - numpy
+  - pandas
+  - git
+  - ipykernel
+  - pytest
+  - numba
+  - pygame
+  - openpyxl
+  - pytest
+  - requests
+prefix: /opt/anaconda3/envs/cpii
